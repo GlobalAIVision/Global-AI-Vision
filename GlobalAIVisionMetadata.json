@@ -1,7 +1,7 @@
 {
     "name": "Global AI Vision",
     "symbol": "GLOBAI",
-    "image": "https://bafybeiedcsvgnjlufl65b6vjs3x3oesj2sherc6z56pmxrlxczepvr67oe.ipfs.nftstorage.link",
+    "image": "https://raw.githubusercontent.com/GlobalAIVision/Global-AI-Vision/main/GLOBAI.jpg",
     "description": "We encourage the exponential growth of Artificial Intelligence and its use globally.",
     "extensions": {
         "website": "https://globalai.vision",
@@ -15,7 +15,7 @@
         "GLOBAL ARTIFICIAL INTELLIGENCE"
     ],
     "creator": {
-        "name": "DEXLAB MINTING LAB",
-        "site": "https://www.dexlab.space"
+        "name": "Global AI Vision",
+        "site": "https://www.globalai.vision"
     }
 }
